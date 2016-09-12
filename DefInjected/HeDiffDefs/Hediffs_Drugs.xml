@@ -21,7 +21,7 @@
 
   <AlcoholTolerance.label>酒精耐受</AlcoholTolerance.label>
   <AlcoholAddiction.label>酒精成瘾</AlcoholAddiction.label>
-  <AlcoholAddiction.stages.0.label>成瘾</AlcoholAddiction.stages.1.label>
+  <AlcoholAddiction.stages.0.label>成瘾</AlcoholAddiction.stages.0.label>
   <AlcoholAddiction.stages.1.label>成瘾</AlcoholAddiction.stages.1.label>
 
   <WakeUpHigh.label>清醒剂亢奋</WakeUpHigh.label>
